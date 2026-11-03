@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="150 160 220 130" role="img" aria-label="Briidgeit">
+<g transform="translate(0 0)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="19">
+ <polyline points="174,211 238,211 263,184 288,211 346,211" stroke="#9D9D9D"/>
+ <polyline points="174,243 238,243 263,216 288,243 346,243" stroke="#1B1B1B"/>
+ <circle cx="174" cy="211" r="19" fill="#9D9D9D" stroke="none"/><circle cx="346" cy="211" r="19" fill="#E8DCA6" stroke="none"/>
+ <circle cx="174" cy="243" r="19" fill="#1B1B1B" stroke="none"/><circle cx="346" cy="243" r="19" fill="#DBB447" stroke="none"/>
+</g></svg>
